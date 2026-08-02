@@ -1,1 +1,4 @@
 
+cd /root
+cp sample.txt sample_copy.txt
+ls
